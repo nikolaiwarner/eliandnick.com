@@ -26,7 +26,8 @@ Lil’ friends:
 Madalynn Riveire
 Holden Warner
 
-Honorary best man: Sabie Butters
+Best cat:
+Sabie Butters
 
 Mamas:
 Carol Riveire
