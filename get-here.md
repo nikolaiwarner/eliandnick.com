@@ -5,6 +5,7 @@ title: Get Here
 
 # GET HERE  
 
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=206171452338292581564.0004d5a1b0caffe1a735b&amp;gl=us&amp;ie=UTF8&amp;ll=38.450273,-85.058944&amp;spn=1.20609,1.365733&amp;t=m&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=206171452338292581564.0004d5a1b0caffe1a735b&amp;gl=us&amp;ie=UTF8&amp;ll=38.450273,-85.058944&amp;spn=1.20609,1.365733&amp;t=m&amp;source=embed" style="color:#0000FF;text-align:left">Lexington!</a> in a larger map</small>
 
 ### FLY
 You have three nearby airport options for flying in:
