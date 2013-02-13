@@ -5,11 +5,13 @@ title: Get Here
 
 # GET HERE  
 
+[HANDY DANDY GOOGLE MAP FOR YOU](http://goo.gl/maps/uI7ag)  
+
 ### FLY
 You have three nearby airport options for flying in:
-- LEX, in Lexington
-- SDF, in Louisville
-- CVG, in Northern Kentucky (Cincinnati)
+- [LEX](http://www.bluegrassairport.com/), in Lexington
+- [SDF](http://www.flylouisville.com/), in Louisville
+- [CVG](http://www.cvgairport.com/), in Northern Kentucky (Cincinnati)
 
 LEX is obviously the closest airport, but it’s sometimes hard to find good flights and/or rates, and you’ll probably still want to rent a car anyway (it’s pretty far out of town, and Lexington’s public transportation system is, unfortunately, not great).
 
