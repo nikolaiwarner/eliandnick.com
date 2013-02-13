@@ -25,5 +25,5 @@ magic words: "Riveire/Warner wedding" OR [use this link to book online](https://
 $179/night  
 magic words: "Riveire/Warner wedding"  
 
-If all of these blocks fill up before you can book, let us know and we can suggest other options. That said, please try to book ASAP if you need a hotel...we apparently chose a weekend where there’s a LOT going on in town (though our wedding is obviously the biggest).
+If all of these blocks fill up before you can book, let us know and we can suggest other options. That said, please try to book ASAP if you need a hotel...we apparently chose a weekend where there’s a LOT going on in town (though our wedding is obviously the most important).
 
