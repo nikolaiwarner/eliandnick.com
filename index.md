@@ -14,7 +14,7 @@ Six-and-a-half year later (a span of time including two bachelors degrees [both 
 * Cut to late July, 2012. Eli and Nick are preparing dinner in their Bell Court apartment kitchen. The food being prepared is probably something delicious:   
 > Eli and Nick (sort of simultaneously): Hey...do you think we should get married?  
 > Both: YES!
-<br>
+
 Knowing that we were travelling to San Diego a few weeks later for the Society of American Archivists annual conference (let’s not forget, Eli had recently gotten her MLS and was seriously job-searching), we made a plan to buy each other badass engagement rings (why shouldn’t the dude get some bling too?), and propose to each other officially on some romantic Southern California beach.
 
 We decided to take a day before the conference started, and drive up California’s Pacific Coast Highway until landing on the perfect spot. With the help and advice of Eli’s longtime family friend Callie Ullman (who had graciously offered us a room in her San Diego-area home AND the use of her [quite sexy, really] Audi), we set off on Sunday morning, August 5th. After a lovely day of driving up the coast, and stopping in Santa Monica for a delicious vegan meal (and no, we didn’t see Larry David, though we looked), we realized we would be approaching Malibu just before sunset.
