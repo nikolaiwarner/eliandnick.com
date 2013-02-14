@@ -3,7 +3,6 @@ layout: homepage
 title: Eli Riveire and Nick Warner are gettin' hitched.
 ---
 <br>
-<br>
 # A MODERN LOVE STORY
 
 We met for the very first time in the spring of 2005 - during Eli’s sophomore year and Nick’s junior year at the University of Kentucky. Eli was on her way to WRFL, UK’s college radio station where she and Nick were both individually involved, with her friend and fellow Telecom major, Bob Zuercher. Eli and Bob opened the back door, and found Nick flying wildly around the CD library on a Razor Scooter (yes, a Razor Scooter). He yelled out, “HIIIIII” as he passed by the door, and continued on his lap of the station. All parties continued on their separate paths.
@@ -12,11 +11,10 @@ In the fall of 2005, we met again - Eli became the WRFL Office Assistant and sta
 
 Six-and-a-half year later (a span of time including two bachelors degrees [both in Telecommunications!], a masters degree, three shared apartments, both of our siblings’ weddings, the births of the world’s best niece and nephew, countless cuddles from the best cat on the planet [Sabie Butters...how can you not fall in love with a man who names his cat Sabie Butters?], and several world-class performances with their own bands and other local groups), that love was still going strong!
 
-* Cut to late July, 2012. Eli and Nick are preparing dinner in their Bell Court apartment kitchen. The food being prepared is probably something delicious. They are talking.
-
+* Cut to late July, 2012. Eli and Nick are preparing dinner in their Bell Court apartment kitchen. The food being prepared is probably something delicious:   
 > Eli and Nick (sort of simultaneously): Hey...do you think we should get married?  
 > Both: YES!
-
+<br>
 Knowing that we were travelling to San Diego a few weeks later for the Society of American Archivists annual conference (let’s not forget, Eli had recently gotten her MLS and was seriously job-searching), we made a plan to buy each other badass engagement rings (why shouldn’t the dude get some bling too?), and propose to each other officially on some romantic Southern California beach.
 
 We decided to take a day before the conference started, and drive up California’s Pacific Coast Highway until landing on the perfect spot. With the help and advice of Eli’s longtime family friend Callie Ullman (who had graciously offered us a room in her San Diego-area home AND the use of her [quite sexy, really] Audi), we set off on Sunday morning, August 5th. After a lovely day of driving up the coast, and stopping in Santa Monica for a delicious vegan meal (and no, we didn’t see Larry David, though we looked), we realized we would be approaching Malibu just before sunset.
