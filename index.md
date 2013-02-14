@@ -11,8 +11,9 @@ In the fall of 2005, we met again - Eli became the WRFL Office Assistant and sta
 
 Six-and-a-half year later (a span of time including two bachelors degrees [both in Telecommunications!], a masters degree, three shared apartments, both of our siblings’ weddings, the births of the world’s best niece and nephew, countless cuddles from the best cat on the planet [Sabie Butters...how can you not fall in love with a man who names his cat Sabie Butters?], and several world-class performances with their own bands and other local groups), that love was still going strong!
 
-> Cut to late July, 2012. Eli and Nick are preparing dinner in their Bell Court apartment kitchen. The food being prepared is probably something delicious:   
-> Eli and Nick (sort of simultaneously): Hey...do you think we should get married?  
+> Cut to late July, 2012. Eli and Nick are preparing dinner in their Bell Court apartment kitchen. The food being prepared is probably something delicious. They are talking:    
+
+> Eli and Nick: Hey...do you think we should get married?  
 > Both: YES!
 
 
