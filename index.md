@@ -3,7 +3,7 @@ layout: homepage
 title: Eli Riveire and Nick Warner are gettin' hitched.
 ---
 <br>
-# THIS IS JUST A MODERN LOVE STORY
+# A MODERN LOVE STORY
 
 We met for the very first time in the spring of 2005 - during Eli’s sophomore year and Nick’s junior year at the University of Kentucky. Eli was on her way to WRFL, UK’s college radio station where she and Nick were both individually involved, with her friend and fellow Telecom major, Bob Zuercher. Eli and Bob opened the back door, and found Nick flying wildly around the CD library on a Razor Scooter (yes, a Razor Scooter). He yelled out, “Hiiiii!!” as he passed by the door, and continued on his lap of the station. 
 
