@@ -7,7 +7,7 @@ title: Party
 
 ## October 19, 2013 - 4pm until ?????!!
 
-![Floral Hall](/images/roundbarn.png)
+![Floral Hall](/public/images/roundbarn.png)
 
 Both the ceremony and reception will take place at the [historic Round Barn](http://www.theredmile.com/redmile/our-track/virtual-tour/round-barn) (aka [Floral Hall](http://www.nps.gov/nr/travel/lexington/flo.htm)), located on the property of the Red Mile race track (1200 Red Mile Rd, Lexington, KY 40504). The ceremony will be held just outside the barn in a lovely field with Lexington’s downtown skyline in the background. We’ll take a break after for some photos and libations, and then head on into the barn to eat and dance the night away!
 
