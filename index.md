@@ -2,17 +2,20 @@
 layout: homepage
 title: Eli Riveire and Nick Warner are gettin' hitched.
 ---
+<br>
+<br>
+# A MODERN LOVE STORY
 
 We met for the very first time in the spring of 2005 - during Eli’s sophomore year and Nick’s junior year at the University of Kentucky. Eli was on her way to WRFL, UK’s college radio station where she and Nick were both individually involved, with her friend and fellow Telecom major, Bob Zuercher. Eli and Bob opened the back door, and found Nick flying wildly around the CD library on a Razor Scooter (yes, a Razor Scooter). He yelled out, “HIIIIII” as he passed by the door, and continued on his lap of the station. All parties continued on their separate paths.
 
-We met again in the fall of 2005 - Eli became the WRFL Office Assistant and started attending weekly Director’s Meetings with Nick, who was the WRFL Webmaster (locals may remember the glory days when the website had a beard). The spark of love was ignited over dance parties, campus anti-war protests (Eli likes to think of Jens Lekman’s “I Saw Her in the Anti-War Demostration” as one of their special songs), mid-day walks to work, and finally, a complete day spent together at Woodland Park eating popsicles and lying on the grass watching the clouds pass. We became inseparable, and our love was solidified during an RFL-sponsored trip to Kansas City for a college radio conference. Upon returning to Lexington, Nick put our love in display in the form of graffiti in the infamous WRFL bathroom - a heart containing the couple’s names, just across from the toilet (and that evidence of true love is still there today, later adorned by a quote from Oscar Wilde!).
+In the fall of 2005, we met again - Eli became the WRFL Office Assistant and started attending weekly Director’s Meetings with Nick, who was the WRFL Webmaster (locals may remember the glory days when the website had a beard). The spark of love was ignited over dance parties, campus anti-war protests (Eli likes to think of Jens Lekman’s “I Saw Her in the Anti-War Demostration” as one of their special songs), mid-day walks to work, and finally, a complete day spent together at Woodland Park eating popsicles and lying on the grass watching the clouds pass. We became inseparable, and our love was solidified during an RFL-sponsored trip to Kansas City for a college radio conference. Upon returning to Lexington, Nick put our love in display in the form of graffiti in the infamous WRFL bathroom - a heart containing the couple’s names, just across from the toilet (and that evidence of true love is still there today, later adorned by a quote from Oscar Wilde!).
 
 Six-and-a-half year later (a span of time including two bachelors degrees [both in Telecommunications!], a masters degree, three shared apartments, both of our siblings’ weddings, the births of the world’s best niece and nephew, countless cuddles from the best cat on the planet [Sabie Butters...how can you not fall in love with a man who names his cat Sabie Butters?], and several world-class performances with their own bands and other local groups), that love was still going strong!
 
-Cut to late July, 2012. [Eli and Nick are preparing dinner in their Bell Court apartment kitchen. The food being prepared is probably something delicious. They are talking.]
+* Cut to late July, 2012. Eli and Nick are preparing dinner in their Bell Court apartment kitchen. The food being prepared is probably something delicious. They are talking.
 
-    Eli and Nick (sort of simultaneously): Hey...do you think we should get married?
-    Both: YES!
+> Eli and Nick (sort of simultaneously): Hey...do you think we should get married?  
+> Both: YES!
 
 Knowing that we were travelling to San Diego a few weeks later for the Society of American Archivists annual conference (let’s not forget, Eli had recently gotten her MLS and was seriously job-searching), we made a plan to buy each other badass engagement rings (why shouldn’t the dude get some bling too?), and propose to each other officially on some romantic Southern California beach.
 
