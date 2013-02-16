@@ -24,7 +24,7 @@ magic words: "Riveire/Warner wedding"
 1800 Newtown Pike, Lexington, KY 40511  
 (877) 901-6632  
 $159/night  
-magic words: "Riveire/Warner wedding" OR [use this link to book online](https://resweb.passkey.com/go/RIVEIREWARNERWEDDING).  
+magic words: "Riveire/Warner wedding"  
 __ALSO AVAILABLE 10/17 AT THIS SAME RATE__
 
 [__Holiday Inn Express Hotel & Suites - Downtown/University__](http://www.hiexpress.com/hotels/us/en/lexington/lexky/hoteldetail)      
