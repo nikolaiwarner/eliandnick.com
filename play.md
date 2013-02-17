@@ -5,11 +5,7 @@ title: While you're here, why not PLAY!
 
 # PLAY  
 
-KENTUCKY KICKS ASS  
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/VK2xh43NLKM" 
-frameborder="0" allowfullscreen></iframe>   
-
+[KENTUCKY KICKS ASS](http://youtu.be/VK2xh43NLKM)    
 
 While you’re here, get to know the Bluegrass a little better!
 
