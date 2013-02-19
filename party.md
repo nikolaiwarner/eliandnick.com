@@ -26,7 +26,8 @@ Both the ceremony and reception will take place at the [historic Round Barn](htt
 
 - We've started working on our registeries, but they're still a work in progress. So far, we're at:  
 -- [Target](http://www.target.com/wedd/registry/dWmXT5dpQxbsicThX951gg)  
--- [Crate & Barrel](http://www.crateandbarrel.com/Gift-Registry/Guest/View-Registry.aspx?grid=5005730) // [and cb2](http://www.cb2.com/Gift-Registry/Guest/View-Registry.aspx?grid=4940191)  
+-- [Crate & Barrel](http://www.crateandbarrel.com/Gift-Registry/Guest/View-Registry.aspx?grid=5005730)   
+-- [cb2](http://www.cb2.com/Gift-Registry/Guest/View-Registry.aspx?grid=4940191&SortBy=category)  
 -- [Amazon](http://www.amazon.com/gp/registry/registry.html?ie=UTF8&id=3RQOD4ZZZDDCQ&type=wedding)  
 - Please RSVP by July 1, 2013...we will include RSVP return cards in the actual invitations (first round going out *hopefully* early May).
 - Feel free to email either of us with questions or concerns:
