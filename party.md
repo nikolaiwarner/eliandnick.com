@@ -24,7 +24,7 @@ Both the ceremony and reception will take place at the [historic Round Barn](htt
 
 # OTHER DETAILZ
 
-- We've started working on our registeries, but they're still a work in progress. So far, we're at:  
+- We've started working on our registeries! So far, we're at:  
 -- [Target](http://www.target.com/wedd/registry/dWmXT5dpQxbsicThX951gg)  
 -- [Crate & Barrel](http://www.crateandbarrel.com/Gift-Registry/Guest/View-Registry.aspx?grid=5005730)   
 -- [cb2](http://www.cb2.com/Gift-Registry/Guest/View-Registry.aspx?grid=4940191&SortBy=category)  
