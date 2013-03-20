@@ -36,9 +36,9 @@ __Mamas:__ Carol Riveire & Rebekah Warner
 __Papas:__ Jeff Warner & Jon Riveire  
 __Ceremony Ringleader:__ Mick Jeffries  
 __Reception Master of Ceremonies:__ Hendrick Floyd  
-__Yogini:__ AnneDean Watkins
+__Yogini:__ AnneDean Watkins  
 
-
+<br>
 # OTHER DETAILZ
 
 - We've started working on our registeries! So far, we're at:  
