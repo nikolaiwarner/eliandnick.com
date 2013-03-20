@@ -2,7 +2,7 @@
 layout: homepage
 title: Eli Riveire and Nick Warner are gettin' hitched.
 ---
-<br>
+
 # A MODERN LOVE STORY.
 
 We met for the very first time in the spring of 2005 - during Eli’s sophomore year and Nick’s junior year at the University of Kentucky. Eli was walking into WRFL, UK’s college radio station where she and Nick were both individually involved, with her friend and fellow Telecom major, Bob Zuercher. Eli and Bob opened the back door, and found Nick flying wildly around the CD library on a Razor Scooter (yes, a Razor Scooter). He yelled out, “Hiiiii!!” as he passed by the door, and continued on his lap of the station.
@@ -31,7 +31,7 @@ We made our way back to San Diego, high on excitement and adrenaline. Just as we
 > post-MLS professional position). California proved to be a very lucky place for this couple!
 
 Later in the fall of 2012, we decided to plant our roots firmly in Lexington by buying a house - on Halloween, we closed on a [very sweet 85-year-old Dutch Colonial Revival-style home near Castlewood Park](http://instagram.com/p/QD_VSOrH9N/); and moved in early January 2013. On October 19, 2013, (exactly one week before our 8th anniversary), we will formally commit our lives to one another, legally binding what our hearts have felt for years. We can’t wait to share this moment with all of you!  
-
+***
 The only requirment of our wedding/wedding weekend is to have fun. If you're not having fun, let's try to fix that! Please feel free to email either of us with questions and/or concerns:  
 > Eli: [riveire@gmail.com](mailto:riveire@gmail.com)  
 > Nick: [nickwarner@gmail.com](mailto:nickwarner@gmail.com)  
