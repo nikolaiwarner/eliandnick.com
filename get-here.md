@@ -23,10 +23,10 @@ You have three nearby airport options for flying in:
 LEX is obviously the closest airport, but it’s sometimes hard to find good flights and/or rates, and you’ll probably still want to rent a car anyway (it’s pretty far out of town, and Lexington’s public transportation system is, unfortunately, not great).
 
 SDF and CVG are both about an hour-and-fifteen-minute drive from Lexington, and generally have similar flights and rates. Either drive is pretty, taking you through Central Kentucky’s rolling hills and beautiful horse farms. Enjoy the majestic Bluegrass!
-***
-<br>
-<br>
 
+<br>
+<br>
+***
 ## DRIVE  
 
 Lexington literally sits at the intersections of two major interstates - I64 (east-west) and I75 (north-south). 
