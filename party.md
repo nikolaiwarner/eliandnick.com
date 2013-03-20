@@ -25,7 +25,7 @@ Whatever makes you feel awesome, and lets you dance! If the weather is just horr
 * __DANCY PARTY SONG REQUESTS:__  
 You can submit booty-shakin' song requests for the dance party [__RIGHT HERE__](https://docs.google.com/forms/d/1gRWS1Tq05aKgqhNKMSdVZyEexFCqHIZ7Ep4yYwHhsSc/viewform)!
 
-
+***
 # WHO'S WHO  
 __Bride:__ Eli Riveire _and_ __Groom:__ Nick Warner (duh)  
 __Bride's ladies:__ Tricia Riveire, Frances Warner, Brett Lewis-Deweese, Shanna Sanders, Ashley Wilson  
@@ -39,13 +39,12 @@ __Reception Master of Ceremonies:__ Hendrick Floyd
 __Yogini:__ AnneDean Watkins  
 
 <br>
-# OTHER DETAILZ
-
-- We've started working on our registeries! So far, we're at:  
-> [Target](http://www.target.com/wedd/registry/dWmXT5dpQxbsicThX951gg)  
-> [Crate & Barrel](http://www.crateandbarrel.com/Gift-Registry/Guest/View-Registry.aspx?grid=5005730)   
-> [cb2](http://www.cb2.com/Gift-Registry/Guest/View-Registry.aspx?grid=4940191&SortBy=category)  
-> [Amazon](http://www.amazon.com/gp/registry/registry.html?ie=UTF8&id=3RQOD4ZZZDDCQ&type=wedding)  
+***
+# REGISTRIES!  
+[Target](http://www.target.com/wedd/registry/dWmXT5dpQxbsicThX951gg)  
+[Crate & Barrel](http://www.crateandbarrel.com/Gift-Registry/Guest/View-Registry.aspx?grid=5005730)   
+[cb2](http://www.cb2.com/Gift-Registry/Guest/View-Registry.aspx?grid=4940191&SortBy=category)  
+[Amazon](http://www.amazon.com/gp/registry/registry.html?ie=UTF8&id=3RQOD4ZZZDDCQ&type=wedding)  
 
 - Feel free to email either of us with questions or concerns:
 > Eli: [riveire@gmail.com](mailto:riveire@gmail.com)  
