@@ -45,9 +45,3 @@ __Yogini:__ AnneDean Watkins
 [Crate & Barrel](http://www.crateandbarrel.com/Gift-Registry/Guest/View-Registry.aspx?grid=5005730)   
 [cb2](http://www.cb2.com/Gift-Registry/Guest/View-Registry.aspx?grid=4940191&SortBy=category)  
 [Amazon](http://www.amazon.com/gp/registry/registry.html?ie=UTF8&id=3RQOD4ZZZDDCQ&type=wedding)  
-
-- Feel free to email either of us with questions or concerns:
-> Eli: [riveire@gmail.com](mailto:riveire@gmail.com)  
-> Nick: [nickwarner@gmail.com](mailto:nickwarner@gmail.com)
-- We want this wedding weekend to be fun and relaxing for all. If you’re not having fun, let’s try to fix that!
-- We love you! Thanks so much for being a part of our lives!
