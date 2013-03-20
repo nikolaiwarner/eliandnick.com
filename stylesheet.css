@@ -2,10 +2,10 @@
 
 body {
   background-image: url(/public/images/back_pattern.png);
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   color: #555;
   position: relative;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.2em;
   margin: 0;
   padding: 0;
@@ -21,6 +21,10 @@ ul {
 
 li {
   margin-bottom: 20px;
+}
+
+h1 {
+  font-family: 'Nunito', sans-serif;
 }
 
 .container {
@@ -40,6 +44,7 @@ li {
   padding-right: 70px;
   text-transform: lowercase;
   color: #555;
+  font-family: 'Nunito', sans-serif;
 }
 .navbar a:hover {
   text-decoration: underline;
