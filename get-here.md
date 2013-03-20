@@ -25,7 +25,6 @@ LEX is obviously the closest airport, but it’s sometimes hard to find good fli
 SDF and CVG are both about an hour-and-fifteen-minute drive from Lexington, and generally have similar flights and rates. Either drive is pretty, taking you through Central Kentucky’s rolling hills and beautiful horse farms. Enjoy the majestic Bluegrass!
 
 <br>
-<br>
 ***
 ## DRIVE  
 
