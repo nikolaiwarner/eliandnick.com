@@ -37,6 +37,7 @@ __Papas:__ Jeff Warner & Jon Riveire
 __Ceremony Ringleader:__ Mick Jeffries  
 __Reception Master of Ceremonies:__ Hendrick Floyd  
 __Yogini:__ AnneDean Watkins  
+__Photographer:__ Hanna Salonen
 
 <br>
 ***
