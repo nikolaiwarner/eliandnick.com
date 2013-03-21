@@ -17,20 +17,21 @@ While you’re here, get to know the Bluegrass a little better!
 - If you get lucky and it’s actually open, drive all the way out Tates Creek Rd. to the [Valley View Ferry](http://www.lexingtonky.gov/index.aspx?page=662). Ride it across the Kentucky River, turn around on the other side, and ride back. Amazing! And free! (Yes, we’re easily amused.)
 - For more __FREE FUN__, check out this list of [70 No-Cost Ways to Have Fun in Lexington and the Bluegrass](http://www.visitlex.com/idea/freebies.php)! 
 
+*** 
 
 # EAT
 
-BREAKFAST:
+## BREAKFAST:
 - [Doodle’s](http://www.doodlesrestaurant.com/), 262 N Limestone St, (859) 317-8507
 - [North Lime Coffee and Donuts](http://www.northlimelex.com/), 575 N Limestone St, (859) 414-6654
 
-LUNCH:
+## LUNCH:
 - [Stella’s Kentucky Deli](http://www.stellaskentuckydeli.com/), 143 Jefferson St, (859) 255-3354 (delicious food with emphasis on local. try the jalapeno soda!)
 - [Gumbo Ya Ya](http://www.gumboyayaky.com/), 1080 South Broadway, #107, (859) 252-9292 (very close to Springhill Suites - kickin’ Cajun)
 - [Windy Corner Market](http://www.windycornermarket.com/), 4595 Bryan Station Rd, (859) 294-9338 (food is wonderful, but the drive alone is worth it!)
 - [Sav’s West African Grill](http://www.savsgrill.com/), 304 S Limestone St, (859) 368-7287 (YUM! ps, don't be intimidated because it's West African cuisine - it is DELICIOUS and very affordable!)
 
-DINNER:
+## DINNER:
 - [Table 310](http://www.table-three-ten.com/), 310 W Short St, (859) 309-3901 (reservations recommended - order a French 75!)
 - [Curry House](http://www.curryhousenep.com/), 2220 Nicholasville Rd #160, (859) 277-0711 (we think - best Indian restaurant in town!)
 - [Nagasaki Inn](http://www.urbanspoon.com/r/65/700587/restaurant/South-Tates-Creek-Road/Nagasaki-Inn-Lexington), 435 Redding Rd, (859) 272-1858 (sushi and hibachi)
