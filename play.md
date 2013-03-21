@@ -8,7 +8,7 @@ title: While you're here, why not PLAY!
 <iframe width="560" height="315" src="http://www.youtube.com/embed/VK2xh43NLKM" frameborder="0">
 </iframe>
 
-[KENTUCKY KICKS ASS](http://www.kentuckyforkentucky.com/)    
+__[KENTUCKY KICKS ASS](http://www.kentuckyforkentucky.com/)__      
 
 While you’re here, get to know the Bluegrass a little better!
 
