@@ -22,8 +22,9 @@ While you’re here, get to know the Bluegrass a little better!
 
 *** 
 
-# EAT
-<br>
+# EAT  
+![Kentucky Proud](http://www.kyagr.com/images/Proud.png)
+
 ## BREAKFAST:
 - [Doodle’s](http://www.doodlesrestaurant.com/), 262 N Limestone St, (859) 317-8507
 - [North Lime Coffee and Donuts](http://www.northlimelex.com/), 575 N Limestone St, (859) 414-6654
