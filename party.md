@@ -46,3 +46,7 @@ __Photographer:__ Hanna Salonen
 [Crate & Barrel](http://www.crateandbarrel.com/Gift-Registry/Guest/View-Registry.aspx?grid=5005730)   
 [cb2](http://www.cb2.com/Gift-Registry/Guest/View-Registry.aspx?grid=4940191&SortBy=category)  
 [Amazon](http://www.amazon.com/gp/registry/registry.html?ie=UTF8&id=3RQOD4ZZZDDCQ&type=wedding)  
+
+<br>
+
+
