@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Party
+title: Who likes to rock the party?
 ---
 
 # PARTY
