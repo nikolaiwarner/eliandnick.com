@@ -25,7 +25,7 @@ The light was exquisite, and the salty ocean smelled heavenly. We walked down th
 
 We made our way back to San Diego, high on excitement and adrenaline. Just as we were passing Disneyland in Anaheim, the park’s nightly fireworks erupted (how did they know?!), brilliantly visible from the I-5.
 
-> Sidenote - After returning, we finally crawled into bed around 2am. Just four hours later, at 6am CST
+> Sidenote - After returning, we finally crawled into bed around 2am. Just four hours later, at 6am PST
 > Monday morning (9am in Lexington), Eli’s phone rang - it was the Lexington Public Library’s Central
 > branch manager offering her a full-time position as an Adult Services Librarian (her very first
 > post-MLS professional position). California proved to be a very lucky place for this couple!
