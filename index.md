@@ -34,7 +34,7 @@ Later in the fall of 2012, we decided to plant our roots firmly in Lexington by 
 
 ***  
 
-The only requirment of our wedding/wedding weekend is to have fun. If you're not having fun, let's try to fix that! Please feel free to email either of us with questions and/or concerns:  
+__The only requirment of our wedding/wedding weekend is to have fun.__ If you're not having fun, let's try to fix that! Please feel free to email either of us with questions and/or concerns:  
 > Eli: [riveire@gmail.com](mailto:riveire@gmail.com)  
 > Nick: [nickwarner@gmail.com](mailto:nickwarner@gmail.com)  
 Thanks for being a part of our lives! We love you!
