@@ -8,7 +8,7 @@ title: While you're here, why not PLAY!
 <iframe width="560" height="315" src="http://www.youtube.com/embed/VK2xh43NLKM" frameborder="0">
 </iframe>
 
-[KENTUCKY KICKS ASS](http://youtu.be/VK2xh43NLKM)    
+[KENTUCKY KICKS ASS](http://www.kentuckyforkentucky.com/)    
 
 While you’re here, get to know the Bluegrass a little better!
 
@@ -19,11 +19,10 @@ While you’re here, get to know the Bluegrass a little better!
 - Get out into nature - the [Arboretum](http://www.ca.uky.edu/arboretum/), [Raven Run Nature Sanctuary](http://www.lexingtonky.gov/index.aspx?page=276), and even [Woodland Park](http://www.lexingtonky.gov/index.aspx?page=2120) (technically, the site of Eli and Nick’s first date) all offer nearby opportunities for outdoor fun.
 - If you get lucky and it’s actually open, drive all the way out Tates Creek Rd. to the [Valley View Ferry](http://www.lexingtonky.gov/index.aspx?page=662). Ride it across the Kentucky River, turn around on the other side, and ride back. Amazing! And free! (Yes, we’re easily amused.)
 - For more __FREE FUN__, check out this list of [70 No-Cost Ways to Have Fun in Lexington and the Bluegrass](http://www.visitlex.com/idea/freebies.php)! 
-
 *** 
 
 # EAT
-
+<br>
 ## BREAKFAST:
 - [Doodle’s](http://www.doodlesrestaurant.com/), 262 N Limestone St, (859) 317-8507
 - [North Lime Coffee and Donuts](http://www.northlimelex.com/), 575 N Limestone St, (859) 414-6654
