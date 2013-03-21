@@ -48,5 +48,6 @@ __Photographer:__ Hanna Salonen
 [Amazon](http://www.amazon.com/gp/registry/registry.html?ie=UTF8&id=3RQOD4ZZZDDCQ&type=wedding)  
 
 <br>
-
+<br>
+<br>
 
