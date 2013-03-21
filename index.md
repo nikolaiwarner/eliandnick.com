@@ -23,7 +23,7 @@ We decided to take a day before the conference started, and drive up California�
 
 The light was exquisite, and the salty ocean smelled heavenly. We walked down the warm sand at [Point Dume State Beach](https://www.google.com/search?q=point+dume+state+beach&hl=en&client=firefox-a&hs=yzP&tbo=d&rls=org.mozilla:en-US:official&source=lnms&tbm=isch&sa=X&ei=5zIdUfnVK-au0AHPooDwDA&ved=0CAoQ_AUoAQ&biw=1366&bih=606) until finding the perfect spot. After exchanging some sweet words, we asked each other to spend the rest of our lives together (and by the way, we both said YES, or else you wouldn’t be reading this!), and slipped beautiful rings on each other’s fingers - just as the [sunset](http://instagram.com/p/UAN9OnLHxD/) hit its crescendo. We spent a few moments alone together, before texting a photo of [our rings](http://instagram.com/p/N_hx4OrH8T/) to our parents (who all thought, seeing Nick’s ring, that we had eloped!), and then announcing it to our friends through [Instagram](http://instagram.com/p/N-J9APLH5t/) and Facebook.
 
-We made our way back to San Diego, high on excitement and adrenaline. Just as we were passing Disney World in Anaheim, the park’s nightly fireworks erupted (how did they know?!), brilliantly visible from the I-5.
+We made our way back to San Diego, high on excitement and adrenaline. Just as we were passing Disneyland in Anaheim, the park’s nightly fireworks erupted (how did they know?!), brilliantly visible from the I-5.
 
 > Sidenote - After returning, we finally crawled into bed around 2am. Just four hours later, at 6am CST
 > Monday morning (9am in Lexington), Eli’s phone rang - it was the Lexington Public Library’s Central
