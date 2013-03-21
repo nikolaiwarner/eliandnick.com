@@ -5,7 +5,7 @@ title: While you're here, why not PLAY!
 
 # PLAY  
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/VK2xh43NLKM" frameborder="0" allowfullscreen>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/VK2xh43NLKM" frameborder="0">
 </iframe>
 
 [KENTUCKY KICKS ASS](http://youtu.be/VK2xh43NLKM)    
