@@ -28,16 +28,16 @@ You can submit booty-shakin' song requests for the dance party [__RIGHT HERE__](
 ***
 # WHO'S WHO  
 __Bride:__ Eli Riveire _and_ __Groom:__ Nick Warner (duh)  
-__Bride's ladies:__ Tricia Riveire, Frances Warner, Brett Lewis-Deweese, Shanna Sanders, Ashley Wilson  
-__Groom's dudes:__ Ben Warner, Jon Riveire, Todd Willey, Chase James, Farhad Rezaei  
+__Bride's ladies:__ Brett Lewis-Deweese, Tricia Riveire, Shanna Sanders, Frances Warner, Ashley Wilson  
+__Groom's dudes:__ Chase James, Farhad Rezaei, Jon Riveire, Ben Warner, Todd Willey   
 __Lil' friends:__ Madalynn Riveire & Holden Warner  
 __Best cat:__ Sabie Butters  
 __Mamas:__ Carol Riveire & Rebekah Warner  
-__Papas:__ Jeff Warner & Jon Riveire  
+__Papas:__ Jon Riveire & Jeff Warner  
 __Ceremony Ringleader:__ Mick Jeffries  
 __Reception Master of Ceremonies:__ Hendrick Floyd  
 __Yogini:__ AnneDean Watkins  
-__Photographer:__ Hanna Salonen
+__Photographer:__ Hanna Salonen  
 
 <br>
 ***
