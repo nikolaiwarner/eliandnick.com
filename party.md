@@ -5,7 +5,8 @@ title: Who likes to rock the party?
 
 # PARTY
 
-## October 19, 2013 - 4pm until ?????!!
+## October 19, 2013 - 4pm until ?????!!  
+### *if you instagram, vine, tweet, whatever...* __please use #eliandnick__
 
 ![Floral Hall](/public/images/roundbarn.png)
 
