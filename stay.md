@@ -33,5 +33,5 @@ __ALSO AVAILABLE 10/17 AT THIS SAME RATE__
 $179/night  
 magic words: "Riveire/Warner wedding"  
 
-If all of these blocks fill up before you can book, let us know and we can suggest other options. That said, please try to book ASAP if you need a hotel...we apparently chose a weekend where there’s a LOT going on in town (though our wedding is obviously the most important).
+If all of these blocks fill up before you can book, let us know and we can suggest other options (like [__Airbnb__](https://www.airbnb.com/s/Lexington--KY?guests=2), which we personally use all the time for traveling, and __highly__ recommend). That said, please try to book ASAP if you need a hotel...we apparently chose a weekend where there’s a LOT going on in town (though our wedding is obviously the most important).
 
