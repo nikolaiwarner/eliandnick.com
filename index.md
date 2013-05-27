@@ -2,10 +2,10 @@
 layout: homepage
 title: Eli Riveire and Nick Warner are gettin' hitched.
 ---
+<center>_Welcome! While perusing our lovesite, please enjoy the embedded playlist below, filled with some of our favorite Kentucky artists and music inspired by Kentucky. You will need to download [Spotify](http://www.spotify.com/) to listen, but it is free and awesome, so you should really have it anyway!_
 <iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
 </iframe>
-_Welcome! While perusing our lovesite, please enjoy the embedded playlist above, filled with some of our favorite Kentucky artists and music inspired by Kentucky. You will need to download [Spotify](http://www.spotify.com/) to listen, but it is free and awesome, so you should really have it anyway!_
-
+</center>
 # A MODERN LOVE STORY.
 
 We met for the very first time in the spring of 2005 - during Eli’s sophomore year and Nick’s junior year at the University of Kentucky. Eli was walking into WRFL, UK’s college radio station where she and Nick were both individually involved, with her friend and fellow Telecom major, Bob Zuercher. Eli and Bob opened the back door, and found Nick flying wildly around the CD library on a Razor Scooter (yes, a Razor Scooter). He yelled out, “Hiiiii!!” as he passed by the door, and continued on his lap of the station.
