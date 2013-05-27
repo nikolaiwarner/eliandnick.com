@@ -2,7 +2,7 @@
 layout: homepage
 title: Eli Riveire and Nick Warner are gettin' hitched.
 ---
-_(While perusing our lovesite, please enjoy the embedded playlist above, filled with some of our favorite Kentucky artists and music inspired by Kentucky. You will need to download [Spotify](http://www.spotify.com/) to listen, but it is free and awesome, so you should really have it anyway!)_
+_Welcome! While perusing our lovesite, please enjoy the embedded playlist above, filled with some of our favorite Kentucky artists and music inspired by Kentucky. You will need to download [Spotify](http://www.spotify.com/) to listen, but it is free and awesome, so you should really have it anyway!_
 
 # A MODERN LOVE STORY.
 
