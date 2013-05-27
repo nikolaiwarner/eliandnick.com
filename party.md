@@ -3,9 +3,6 @@ layout: page
 title: Who likes to rock the party?
 ---
 
-<iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
-</iframe>
-
 # PARTY
 
 ## October 19, 2013 - 4pm until ?????!!  
