@@ -49,7 +49,6 @@ __Photographer:__ Hanna Salonen
 [Amazon](http://www.amazon.com/gp/registry/registry.html?ie=UTF8&id=3RQOD4ZZZDDCQ&type=wedding)  
 
 <br>
-<br>
 <iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
 </iframe>
 <br>
