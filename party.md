@@ -15,7 +15,7 @@ Both the ceremony and reception will take place at the [historic Round Barn](htt
 
 * __FOOD__ will be provided by the Red Mile’s in-house catering company, Bayou Bluegrass Catering. Get ready for some delicious Cajun-inspired eats! 
 > __PLEASE__ let us know ASAP if you or anyone in your party has specific dietary restrictions - we’re vegan and definitely
-> know how much it sucks to be somewhere where you can’t eat anything (vegans and vegetarians - y'all know we've got your back on this wedding feast thang! Y'all are gonna be all set!). But anything else...allergies, intolerances, what have you - even if you think we already know...remind us,
+> know how much it sucks to be somewhere where you can’t eat anything (vegans and vegetarians - y'all know we've got your back on this wedding feast thang! y'all are gonna be all set!). But anything else...allergies, intolerances, what have you - even if you think we already know...remind us,
 > please. [Click here to fill out a short form about your needs!](https://docs.google.com/forms/d/1xijIxX8u_KMS4HHNuonFYEjLrXo4Rp-0Mb_KqjEbHfY/viewform) 
 
 * __THE BAR__ will feature some of our local delicacies - [Ale 8](http://en.wikipedia.org/wiki/Ale-8-One), Kentucky’s favorite soda; [craft beer from one of Lexington's microbreweries, West Sixth Brewery](http://www.craftbeer.com/featured-brewery/west-sixth-brewing-company); and several varieties of [Kentucky’s gift to the rest of the world - bourbon!](http://en.wikipedia.org/wiki/Bourbon_whiskey)  
