@@ -4,8 +4,8 @@ title: A Modern Love Story
 ---
 
 # LOVE STORY
-
-_Welcome! While perusing our lovesite, please enjoy the embedded playlist below, filled with some of our favorite Kentucky artists and music inspired by Kentucky._ 
+<br>
+_While perusing our lovesite, please enjoy the playlist below, filled with some of our favorite Kentucky artists and music inspired by Kentucky._ 
 
 <iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
 </iframe>
