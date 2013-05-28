@@ -42,7 +42,7 @@ __91.9__ in Louisville (lasts until just after Frankfort)
 __89.7__, __102.7__ in Northern Kentucky and Cincinnati  
 __88.1__, __88.9__, __107.9__ in or around Lexington  
 <br>
-Alternatively, would like a “Welcome to Kentucky” mix CD to make the drive more pleasant? Give us a shout. There's a sweet Spotify playlist embedded below, but if you ask, we'll make you something special!
+Alternatively, would you like a “Welcome to Kentucky” mix CD to make the drive more pleasant? Give us a shout. There's a sweet Spotify playlist embedded below, but if you ask, we'll make you something special!
 
 <br>
 <iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
