@@ -40,3 +40,9 @@ While you’re here, get to know the Bluegrass a little better!
 - [Curry House](http://www.curryhousenep.com/), 2220 Nicholasville Rd #160, (859) 277-0711 (we think - best Indian restaurant in town!)
 - [Nagasaki Inn](http://www.urbanspoon.com/r/65/700587/restaurant/South-Tates-Creek-Road/Nagasaki-Inn-Lexington), 435 Redding Rd, (859) 272-1858 (sushi and hibachi)
 - [Mellow Mushroom](http://mellowmushroom.com/store/lexington), 503 S Upper St, (859) 281-6111 (killer za!)
+
+<br>
+<iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
+</iframe>
+<br>
+<br>
