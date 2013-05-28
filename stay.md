@@ -35,3 +35,9 @@ magic words: "Riveire/Warner wedding"
 
 If all of these blocks fill up before you can book, let us know and we can suggest other options (like [__Airbnb__](https://www.airbnb.com/s/Lexington--KY?guests=2), which we personally use all the time for traveling, and __highly__ recommend). That said, please try to book ASAP if you need a hotel...we apparently chose a weekend where there’s a LOT going on in town (though our wedding is obviously the most important).
 
+<br>
+<iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
+</iframe>
+<br>  
+<br> 
+
