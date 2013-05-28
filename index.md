@@ -7,6 +7,7 @@ _Welcome! While perusing our lovesite, please enjoy the embedded playlist below,
 <iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
 </iframe>
 <br>
+_(ps, you can scroll through the playlist by hovering over where it says "welcome to ky" and pressing the backwards and forwards arrows)_
 <br>
 # A MODERN LOVE STORY.
 
