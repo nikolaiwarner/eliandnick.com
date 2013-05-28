@@ -38,3 +38,7 @@ Lexington literally sits at the intersections of two major interstates - I64 (ea
 
 If you need radio station suggestions for the drive (88.1, 88.9, 107.9 in LEX), or would like a “Welcome to Kentucky” mix CD to make the drive more pleasant, give us a shout. There's a sweet Spotify playlist embedded below, but if you ask, we'll make you something special!
 
+<br>
+<iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
+</iframe>
+
