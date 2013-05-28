@@ -3,7 +3,7 @@ layout: page
 title: A Modern Love Story
 ---
 
-# LOVE STORY
+# LOVE!
 
 _While perusing our lovesite, please enjoy the playlist below, filled with some of our favorite Kentucky artists and music inspired by Kentucky._ 
 
