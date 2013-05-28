@@ -38,9 +38,9 @@ Lexington literally sits at the intersections of two major interstates - I64 (ea
 
 
 __RADIO STATION SUGGESTIONS FOR THE DRIVE__   
-91.9 in Louisville (lasts until just after Frankfort)  
-89.7, 102.7 in Northern Kentucky and Cincinnati  
-88.1, 88.9, 107.9 in or around Lexington  
+__91.9__ in Louisville (lasts until just after Frankfort)  
+__89.7__, __102.7__ in Northern Kentucky and Cincinnati  
+__88.1__, __88.9__, __107.9__ in or around Lexington  
 <br>
 Alternatively, would like a “Welcome to Kentucky” mix CD to make the drive more pleasant? Give us a shout. There's a sweet Spotify playlist embedded below, but if you ask, we'll make you something special!
 
