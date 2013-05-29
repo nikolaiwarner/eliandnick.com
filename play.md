@@ -3,7 +3,7 @@ layout: page
 title: While you're here, why not PLAY!
 ---
 
-# PLAY  
+# PLAY!  
 
 While you’re here, get to know the Bluegrass a little better!
 
