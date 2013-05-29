@@ -3,7 +3,7 @@ layout: page
 title: Stay
 ---
 
-# STAY
+# STAY!
 
 We have rooms blocked off at four Lexington hotels between 10/18-10/20:
 
