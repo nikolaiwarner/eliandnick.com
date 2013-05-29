@@ -3,7 +3,8 @@ layout: page
 title: Who likes to rock the party?
 ---
 
-# PARTY
+# PARTY!
+### a most spectacular party hosted by Jon and Carol Riveire, and Jeff and Rebekah Warner
 
 ## October 19, 2013 - 4pm until ?????!!  
 ### *if you instagram, vine, tweet, whatever...* __please use #eliandnick__
