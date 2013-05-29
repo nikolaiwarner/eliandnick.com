@@ -4,7 +4,7 @@ title: Who likes to rock the party?
 ---
 
 # PARTY!
-__A MOST SPECTACULAR PARTY HOSTED BY JON + CAROL RIVEIRE AND JEFF + REBEKAH WARNER__
+__A MOST RADICAL PARTY HOSTED BY JON + CAROL RIVEIRE AND JEFF + REBEKAH WARNER__
 <br>
 ## October 19, 2013 - 4pm until ?????!!  
 ### *if you instagram, vine, tweet, whatever...* __please use #eliandnick__
