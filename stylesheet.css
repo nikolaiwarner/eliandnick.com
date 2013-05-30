@@ -51,7 +51,7 @@ h3 {
 
 .navbar a {
   text-decoration: none;
-  padding-right: 80px;
+  padding-right: 50px;
   text-transform: lowercase;
   color: #555;
   font-family: 'Nunito', sans-serif;
@@ -93,4 +93,9 @@ h3 {
 
 .page .the-lovely-couple {
   cursor: pointer;
+}
+
+.sparkle {
+  font-size: 20px;
+
 }
