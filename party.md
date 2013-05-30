@@ -5,9 +5,7 @@ title: Who likes to rock the party?
 
 # PARTY!
 ### a most spectacular party hosted by our most spectacular parents:
-<h2 class="sparkle">Jon + Carol Riveire</h2>
-<h2 class="sparkle">and</h2>
-<h2 class="sparkle">Jeff + Rebekah Warner</h2>
+<h2 class="sparkle">Jon + Carol Riveire & Jeff + Rebekah Warner</h2>
 ***
 
 # October 19, 2013 - 4pm until ?????!!
