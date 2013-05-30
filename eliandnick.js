@@ -18,7 +18,7 @@
       _this = this;
     if ($('.homepage').length > 0) {
       $('.homepage .curtains').delay(1000).fadeOut(4000);
-      lovely_couple_animate();
+      sparkle_animate($('.the-lovely-couple'));
     }
     if ($('.page').length > 0) {
       $('.page .the-lovely-couple').click(function() {
