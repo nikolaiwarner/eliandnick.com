@@ -32,25 +32,25 @@ You can submit booty-shakin' song requests for the dance party [__RIGHT HERE__](
 
 ***
 # WHO'S WHO
-__Bride:__ Eli Riveire _and_ __Groom:__ Nick Warner (duh)
-__Bride's ladies:__ Brett Lewis-Deweese, Tricia Riveire, Shanna Sanders, Frances Warner, Ashley Wilson
-__Groom's dudes:__ Chase James, Farhad Rezaei, Jon Riveire, Ben Warner, Todd Willey
-__Lil' friends:__ Madalynn Riveire & Holden Warner
-__Best cat:__ Sabie Butters
-__Mamas:__ Carol Riveire & Rebekah Warner
-__Papas:__ Jon Riveire & Jeff Warner
-__Ceremony Ringleader:__ Mick Jeffries
-__Reception Master of Ceremonies:__ Hendrick Floyd
-__Yogini:__ AnneDean Watkins
-__Photographer:__ Hanna Salonen
+__Bride:__ Eli Riveire _and_ __Groom:__ Nick Warner (duh)  
+__Bride's ladies:__ Brett Lewis-Deweese, Tricia Riveire, Shanna Sanders, Frances Warner, Ashley Wilson  
+__Groom's dudes:__ Chase James, Farhad Rezaei, Jon Riveire, Ben Warner, Todd Willey  
+__Lil' friends:__ Madalynn Riveire & Holden Warner  
+__Best cat:__ Sabie Butters  
+__Mamas:__ Carol Riveire & Rebekah Warner  
+__Papas:__ Jon Riveire & Jeff Warner  
+__Ceremony Ringleader:__ Mick Jeffries  
+__Reception Master of Ceremonies:__ Hendrick Floyd  
+__Yogini:__ AnneDean Watkins  
+__Photographer:__ Hanna Salonen  
 
 <br>
 ***
 # REGISTRIES!
-[Target](http://www.target.com/wedd/registry/dWmXT5dpQxbsicThX951gg)
-[Crate & Barrel](http://www.crateandbarrel.com/Gift-Registry/Guest/View-Registry.aspx?grid=5005730)
-[cb2](http://www.cb2.com/Gift-Registry/Guest/View-Registry.aspx?grid=4940191&SortBy=category)
-[Amazon](http://www.amazon.com/gp/registry/registry.html?ie=UTF8&id=3RQOD4ZZZDDCQ&type=wedding)
+[Target](http://www.target.com/wedd/registry/dWmXT5dpQxbsicThX951gg)  
+[Crate & Barrel](http://www.crateandbarrel.com/Gift-Registry/Guest/View-Registry.aspx?grid=5005730)  
+[cb2](http://www.cb2.com/Gift-Registry/Guest/View-Registry.aspx?grid=4940191&SortBy=category)  
+[Amazon](http://www.amazon.com/gp/registry/registry.html?ie=UTF8&id=3RQOD4ZZZDDCQ&type=wedding)  
 
 <br>
 <iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
