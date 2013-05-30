@@ -3,7 +3,8 @@ layout: page
 title: A Modern Love Story
 ---
 
-# LOVE! <h2 class="sparkle">♥
+# LOVE! 
+<h2 class="sparkle">♥
 </h2>
 
 _While perusing our lovesite, please enjoy the playlist below, filled with some of our favorite Kentucky artists and music inspired by Kentucky._ 
