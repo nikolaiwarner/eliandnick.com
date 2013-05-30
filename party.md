@@ -5,7 +5,7 @@ title: Who likes to rock the party?
 
 # PARTY!
 ## a most spectacular party hosted by our most spectacular parents:
-<h2 class="sparkle">JON + CAROL RIVEIRE &amp; JEFF + REBEKAH WARNER ♥♥♥♥♥♥♥♥♥♥♥♥
+<h2 class="sparkle">♥♥♥♥♥♥♥♥♥♥♥♥ JON + CAROL RIVEIRE &amp; JEFF + REBEKAH WARNER ♥♥♥♥♥♥♥♥♥♥♥♥
 </h2>
 ***
 
