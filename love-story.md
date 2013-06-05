@@ -6,9 +6,9 @@ title: A Modern Love Story
 # LOVE! 
 
 <center>
-<span><img height="178" width="178" src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/563288_10100800429484820_2040519551_n.jpg"></span>
-<span><img height="178" width="237" src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/527205_10100897030021570_1758713526_n.jpg"></span>
-<span><img height="178" width="178" src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/552598_10100837940866710_1151086909_n.jpg"></span>
+<span><img height="168" width="168" src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/563288_10100800429484820_2040519551_n.jpg"></span>
+<span><img height="168" width="224" src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/527205_10100897030021570_1758713526_n.jpg"></span>
+<span><img height="168" width="168" src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/552598_10100837940866710_1151086909_n.jpg"></span>
 </center>
 
 _While perusing our lovesite, please enjoy the playlist below, filled with some of our favorite Kentucky artists and music inspired by Kentucky._ 
