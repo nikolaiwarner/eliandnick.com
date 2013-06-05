@@ -28,7 +28,8 @@ SDF and CVG are both about an hour-and-fifteen-minute drive from Lexington, and 
 ***
 ## DRIVE  
 
-<img height="350px" width="600px" src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/962911_10101264195523960_135942449_n.jpg?oh=d4b98b6388007f9a8f8615d34aea2c80&oe=51B19FB3&__gda__=1370604327_ac04444c30d2ff9c88dfe1b6df97974c"> <br>
+<img height="350px" width="600px" src="http://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/962911_10101264195523960_135942449_n.jpg?oh=d4b98b6388007f9a8f8615d34aea2c80&oe=51B19FB3&__gda__=1370604327_ac04444c30d2ff9c88dfe1b6df97974c">
+<br>
 (this is what driving in kentucky looks like)  
 
 Lexington literally sits at the intersections of two major interstates - __I-64__ (east-west) and __I-75__ (north-south). 
