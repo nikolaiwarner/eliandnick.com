@@ -28,8 +28,8 @@ SDF and CVG are both about an hour-and-fifteen-minute drive from Lexington, and 
 ***
 ## DRIVE  
 
-![Driving in Kentucky](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/962911_10101264195523960_135942449_n.jpg?oh=d4b98b6388007f9a8f8615d34aea2c80&oe=51B19FB3&__gda__=1370604327_ac04444c30d2ff9c88dfe1b6df97974c)  
-(this is what driving in kentucky looks like)
+<img height="350px" width="600px" src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/962911_10101264195523960_135942449_n.jpg?oh=d4b98b6388007f9a8f8615d34aea2c80&oe=51B19FB3&__gda__=1370604327_ac04444c30d2ff9c88dfe1b6df97974c"> <br>
+(this is what driving in kentucky looks like)  
 
 Lexington literally sits at the intersections of two major interstates - __I-64__ (east-west) and __I-75__ (north-south). 
 - From __64E (aka Louisville):__ our favorite way to get into town is to take exit 65 (marked US-62 Midway/Versailles). Once off the exit ramp, turn right, and then when the road ends, turn left. This is Highway 421. Once you've made the turn, make sure to look to your right - that first farm, in addition to the usual farm animals, is home to a herd of buffalo and a CAMEL! Stay on 421 basically all the way into town - it turns into Leestown Rd, and then eventually Main St. If you're staying at the Griffin Gate, you'll turn left at Newtown Pike (big intersection right after the cemetary). Springhill Suites or Holiday Inn - turn right at Broadway (just after the convention center).
