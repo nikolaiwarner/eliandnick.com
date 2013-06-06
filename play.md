@@ -5,6 +5,15 @@ title: While you're here, why not PLAY!
 
 # PLAY!  
 
+<center>
+<span><img height="168px" width="168px" src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash4/1459_10101306657729360_1279802819_n.jpg"></span>
+<span><img height="168px" width="168px" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/577130_10100894927979080_1958266467_n.jpg"></span>
+<span><img height="168px" width="168px" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/560335_10100753262068700_1380887391_n.jpg"></span>
+<span><img height="168px" width="168px" src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/548458_10100684112295400_757274385_n.jpg"></span>
+<span><img height="168px" width="168px" src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash4/250684_10100901078164060_1669331780_n.jpg"></span>
+<span><img height="168px" width="168px" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/552190_10100651802374740_1593408716_n.jpg"></span>
+</center>
+
 While you’re here, get to know the Bluegrass a little better!
 
 - Visit a distillery: In the area, [Buffalo Trace](http://www.buffalotracedistillery.com/) (in Frankfort) and [Four Roses](http://www.fourrosesbourbon.com/distillery-tour/) (in Lawrenceberg) both give great FREE tours that end with tastings! All ages are welcome, though these might be more fun (and interesting) for those of age (especially since they basically end with free bourbon).  
