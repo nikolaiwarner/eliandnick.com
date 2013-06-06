@@ -6,12 +6,12 @@ title: While you're here, why not PLAY!
 # PLAY!  
 
 <center>
-<span><img height="168px" width="168px" src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash4/426219_10100526382876420_1445275140_n.jpg"></span>
-<span><img height="168px" width="168px" src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash4/1459_10101306657729360_1279802819_n.jpg"></span>
-<span><img height="168px" width="168px" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/577130_10100894927979080_1958266467_n.jpg"></span>
-<span><img height="168px" width="168px" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/560335_10100753262068700_1380887391_n.jpg"></span>
-<span><img height="168px" width="168px" src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc1/432333_10100576279967250_2101289730_n.jpg"></span>
-<span><img height="168px" width="168px" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/552190_10100651802374740_1593408716_n.jpg"></span>
+<span><img height="168px" width="168px" title="Thoroughbred Park" src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash4/426219_10100526382876420_1445275140_n.jpg"></span>
+<span><img height="168px" width="168px" title="Nick on the Legacy Trail" src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash4/1459_10101306657729360_1279802819_n.jpg"></span>
+<span><img height="168px" width="168px" title="Downtown Lexington, taken from the library where Eli works" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/577130_10100894927979080_1958266467_n.jpg"></span>
+<span><img height="168px" width="168px" title="Fireball + Ale 8 = YUM" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/560335_10100753262068700_1380887391_n.jpg"></span>
+<span><img height="168px" width="168px" title="Eli on the cover of Ace Weekly, 2008, riding through Woodland Park" src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc1/432333_10100576279967250_2101289730_n.jpg"></span>
+<span><img height="168px" width="168px" title="Can't decide which West Sixth beer to try? Get a flight!" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/552190_10100651802374740_1593408716_n.jpg"></span>
 </center>
 
 While you’re here, get to know the Bluegrass a little better!
