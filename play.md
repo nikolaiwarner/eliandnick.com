@@ -6,10 +6,10 @@ title: While you're here, why not PLAY!
 # PLAY!  
 
 <center>
+<span><img height="168px" width="168px" src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash4/426219_10100526382876420_1445275140_n.jpg"></span>
 <span><img height="168px" width="168px" src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash4/1459_10101306657729360_1279802819_n.jpg"></span>
 <span><img height="168px" width="168px" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/577130_10100894927979080_1958266467_n.jpg"></span>
 <span><img height="168px" width="168px" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/560335_10100753262068700_1380887391_n.jpg"></span>
-<span><img height="168px" width="168px" src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/548458_10100684112295400_757274385_n.jpg"></span>
 <span><img height="168px" width="168px" src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc1/432333_10100576279967250_2101289730_n.jpg"></span>
 <span><img height="168px" width="168px" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/552190_10100651802374740_1593408716_n.jpg"></span>
 </center>
@@ -56,5 +56,8 @@ __[KENTUCKY KICKS ASS!](http://www.kentuckyforkentucky.com/)__
 <br>
 <iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
 </iframe>
+<br>
+<br>
+* NOTE - the Fireball Whisky pictured above is technically not from Kentucky - it's from Canada. BUT, the company that owns Fireball (Sazerac) also owns Buffalo Trace Distillery. So, that sort of counts, right? Plus, OMG, it is AMAZING with Ale 8!
 <br>
 <br>
