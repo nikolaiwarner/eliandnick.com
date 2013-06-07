@@ -9,7 +9,7 @@ title: While you're here, why not PLAY!
 <span><img height="168px" width="168px" title="Thoroughbred Park" src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash4/426219_10100526382876420_1445275140_n.jpg"></span>
 <span><img height="168px" width="168px" title="Nick zippin' down the Legacy Trail" src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash4/1459_10101306657729360_1279802819_n.jpg"></span>
 <span><img height="168px" width="168px" title="Downtown Lexington, taken from the library where Eli works" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/577130_10100894927979080_1958266467_n.jpg"></span>
-<span><img height="168px" width="168px" title="Fireball + Ale 8 = YUM" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/560335_10100753262068700_1380887391_n.jpg"></span>
+<span><img height="168px" width="168px" title="Fireball + Ale 8 = YUM! (NOTE - Fireball Whisky is technically not from Kentucky - it's from Canada. BUT, the company that owns Fireball (Sazerac) also owns Buffalo Trace Distillery. So, that sort of counts, right? Plus, OMG, it is AMAZING with Ale 8!" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/560335_10100753262068700_1380887391_n.jpg"></span>
 <span><img height="168px" width="168px" title="Eli on the cover of local news magazine Ace Weekly, 2008, riding through Woodland Park" src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc1/432333_10100576279967250_2101289730_n.jpg"></span>
 <span><img height="168px" width="168px" title="Can't decide which West Sixth beer to try? Get a flight!" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/552190_10100651802374740_1593408716_n.jpg"></span>
 </center>
@@ -51,13 +51,17 @@ __[KENTUCKY KICKS ASS!](http://www.kentuckyforkentucky.com/)__
 - [Table 310](http://www.table-three-ten.com/), 310 W Short St, (859) 309-3901 (reservations recommended - order a French 75!)
 - [Curry House](http://www.curryhousenep.com/), 2220 Nicholasville Rd #160, (859) 277-0711 (we think - best Indian restaurant in town!)
 - [Nagasaki Inn](http://www.urbanspoon.com/r/65/700587/restaurant/South-Tates-Creek-Road/Nagasaki-Inn-Lexington), 435 Redding Rd, (859) 272-1858 (sushi and hibachi)
-- [Mellow Mushroom](http://mellowmushroom.com/store/lexington), 503 S Upper St, (859) 281-6111 (killer za!)
+- [Mellow Mushroom](http://mellowmushroom.com/store/lexington), 503 S Upper St, (859) 281-6111 (killer za!)  
+
+***  
+
+# SPEAKING OF PLAYING...
+We'll be playing after the wedding in California! We're splitting our honeymoon up into beach and city - 3 days in Santa Cruz, and 3 days in San Francisco. OH YES!  
+
 
 <br>
 <iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
 </iframe>
 <br>
 <br>
-* NOTE - the Fireball Whisky pictured above is technically not from Kentucky - it's from Canada. BUT, the company that owns Fireball (Sazerac) also owns Buffalo Trace Distillery. So, that sort of counts, right? Plus, OMG, it is AMAZING with Ale 8!
-<br>
-<br>
+
