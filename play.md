@@ -44,7 +44,7 @@ __[KENTUCKY KICKS ASS!](http://www.kentuckyforkentucky.com/)__
 ## LUNCH:
 - [Stella’s Kentucky Deli](http://www.stellaskentuckydeli.com/), 143 Jefferson St, (859) 255-3354 (delicious food with emphasis on local. try the jalapeno soda!)
 - [Gumbo Ya Ya](http://www.gumboyayaky.com/), 1080 South Broadway, #107, (859) 252-9292 (very close to Springhill Suites - kickin’ Cajun)
-- [Windy Corner Market]https://www.airbnb.com/rooms/19040https://www.airbnb.com/rooms/19040(http://www.windycornermarket.com/), 4595 Bryan Station Rd, (859) 294-9338 (food is wonderful, but the drive alone is worth it!)
+- [Windy Corner Market](http://www.windycornermarket.com/), 4595 Bryan Station Rd, (859) 294-9338 (food is wonderful, but the drive alone is worth it!)
 - [Sav’s West African Grill](http://www.savsgrill.com/), 304 S Limestone St, (859) 368-7287 (YUM! ps, don't be intimidated because it's West African cuisine - it is DELICIOUS and very affordable!)
 
 ## DINNER:
