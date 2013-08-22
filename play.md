@@ -24,7 +24,7 @@ While you're here, get to know the Bluegrass a little better!
 - Go hang at the [Bread Box](http://www.breadboxlex.com/) and visit [West Sixth Brewing](http://www.westsixth.com/). The beer’s delicious, they’re usually hosting some tasty food truck, they serve [Ale 8](http://ale8one.com/) for our underage/non-drinking friends, and it’s truly the only “bar” in town where it’s cool to bring your whole family. You might get lucky and chance upon the building, which used to be a Rainbo Bread factory, at a good time to catch the local roller derby team’s practice, or perhaps an open studio event at one of the artists’ spaces. It’s one of our favorite places in town.
 - Get out into nature - the [Arboretum](http://www.ca.uky.edu/arboretum/), [Raven Run Nature Sanctuary](http://www.lexingtonky.gov/index.aspx?page=276), and even [Woodland Park](http://www.lexingtonky.gov/index.aspx?page=2120) (technically, the site of Eli and Nick’s first date) all offer nearby opportunities for outdoor fun.
 - If you get lucky and it’s actually open, drive all the way out Tates Creek Rd. to the [Valley View Ferry](http://www.lexingtonky.gov/index.aspx?page=662). Ride it across the Kentucky River, turn around on the other side, and ride back. Amazing! And free! (Yes, we’re easily amused.)
-- For more __FREE FUN__, check out this list of [70 No-Cost Ways to Have Fun in Lexington and the Bluegrass](http://www.visitlex.com/idea/freebies.php)!
+- For more __FREE FUN__, check out this list of [70 No-Cost Ways to Have Fun in Lexington and the Bluegrass](http://www.visitlex.com/idea/freebies.php)!  
 <br>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/VK2xh43NLKM" frameborder="0">
 </iframe>
