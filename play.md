@@ -26,6 +26,7 @@ While you're here, get to know the Bluegrass a little better!
 - If you get lucky and it’s actually open, drive all the way out Tates Creek Rd. to the [Valley View Ferry](http://www.lexingtonky.gov/index.aspx?page=662). Ride it across the Kentucky River, turn around on the other side, and ride back. Amazing! And free! (Yes, we’re easily amused.)
 - For more __FREE FUN__, check out this list of [70 No-Cost Ways to Have Fun in Lexington and the Bluegrass](http://www.visitlex.com/idea/freebies.php)!  
 <br>
+<br>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/VK2xh43NLKM" frameborder="0">
 </iframe>
 <br>
