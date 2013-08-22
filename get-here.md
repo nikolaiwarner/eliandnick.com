@@ -37,7 +37,7 @@ Lexington literally sits at the intersections of two major interstates - __I-64_
 - From the __Lexington airport:__ when you exit the airport, turn left onto Man O War Boulevard. Fairly soon after, turn right onto Versailles Rd. Take Versailles all the way into town. If you're at the Springhill Suites or Holiday Inn Express, it will be easiest for you to turn right at Red Mile Rd (and you'll get to go past the wedding site!). The intersection with Broadway is the next major intersection. Springhill Suites - turn left at Broadway, and it's almost immediately on your left. Holiday Inn Express - continue on past Broadway (the road becomes Virginia Ave.), and you should see the hotel very soon after on your right. For the Griffin Gate - when you suddenly see the downtown skyline pop up, be looking for Oliver Lewis Way on your left. Turn left there, and continue on - that road becomes Newtown Pike.
 
 
-__RADIO STATION SUGGESTIONS FOR THE DRIVE__
+__RADIO STATION SUGGESTIONS FOR THE DRIVE__  
 __91.9__ in Louisville (lasts until just after Frankfort)  
 __89.7__ in Northern Kentucky and Cincinnati  
 __88.1__, __88.9__, __107.9__ in or around Lexington  
