@@ -28,11 +28,6 @@ SDF and CVG are both about an hour-and-fifteen-minute drive from Lexington, and 
 ***
 ## DRIVE
 
-<img height="350px" width="600px" src="http://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/962911_10101264195523960_135942449_n.jpg">
-<br>
-(this is what driving in kentucky looks like)
-
-
 Lexington literally sits at the intersections of two major interstates - __I-64__ (east-west) and __I-75__ (north-south).
 - From __64E (aka Louisville):__ our favorite way to get into town is to take exit 65 (marked US-62 Midway/Versailles). Once off the exit ramp, turn right, and then when the road ends, turn left. This is Highway 421. Once you've made the turn, make sure to look to your right - that first farm, in addition to the usual farm animals, is home to a herd of buffalo and a CAMEL! Stay on 421 basically all the way into town - it turns into Leestown Rd, and then eventually Main St. If you're staying at the Griffin Gate, you'll turn left at Newtown Pike (big intersection right after the cemetary). Springhill Suites or Holiday Inn - turn right at Broadway (just after the convention center).
 - From __64W:__ after you pass Winchester, KY, there will be a confusing mess of interstate where 64 and 75 come together. Continue on 64W/75N (signs should say toward Louisville and Cincinnati). If you're staying at Springhill Suites or the Holiday Inn Express, you'll want to get off at Exit 113 (which is Broadway). Griffin Gate, use Exit 115 (which is Newtown Pike).
@@ -43,9 +38,9 @@ Lexington literally sits at the intersections of two major interstates - __I-64_
 
 
 __RADIO STATION SUGGESTIONS FOR THE DRIVE__
-__91.9__ in Louisville (lasts until just after Frankfort)
-__89.7__ in Northern Kentucky and Cincinnati
-__88.1__, __88.9__, __107.9__ in or around Lexington
+__91.9__ in Louisville (lasts until just after Frankfort)  
+__89.7__ in Northern Kentucky and Cincinnati  
+__88.1__, __88.9__, __107.9__ in or around Lexington  
 <br>
 Alternatively, would you like a “Welcome to Kentucky” mix CD to make the drive more pleasant? Give us a shout. There's a sweet Spotify playlist embedded below, but if you ask, we'll make you something special!
 
