@@ -14,8 +14,12 @@ title: While you're here, why not PLAY!
 <span><img height="168px" width="168px" title="Can't decide which West Sixth beer to try? Get a flight!" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/552190_10100651802374740_1593408716_n.jpg"></span>
 </center>
 
-While you're here, get to know the Bluegrass a little better!
-
+While you're here, get to know the Bluegrass a little better!  
+<br>
+<br>
+<iframe width="420" height="315" src="//www.youtube.com/embed/oxkjCDpXdkY" frameborder="0">
+</iframe>  
+<br>
 - Visit a distillery: In the area, [Buffalo Trace](http://www.buffalotracedistillery.com/) (in Frankfort) and [Four Roses](http://www.fourrosesbourbon.com/distillery-tour/) (in Lawrenceberg) both give great FREE tours that end with tastings! All ages are welcome, though these might be more fun (and interesting) for those of age (especially since they basically end with free bourbon).
 > __WE ARE PLANNING AN OUTING TO TOUR BUFFALO TRACE ON FRIDAY 10/18!__ We are thinking around 10 or 11am (and the tour
 > is an hour long). Anyone who is available and interested is welcome to join! The tour is, of course, FREE, and no registration or anything like that is needed. If you'd like to stay abreast of possible details, check this page as it   gets closer, or email Eli at [riveire@gmail.com](mailto:riveire@gmail.com)
@@ -26,6 +30,8 @@ While you're here, get to know the Bluegrass a little better!
 - If you get lucky and it’s actually open, drive all the way out Tates Creek Rd. to the [Valley View Ferry](http://www.lexingtonky.gov/index.aspx?page=662). Ride it across the Kentucky River, turn around on the other side, and ride back. Amazing! And free! (Yes, we’re easily amused.)
 - For more __FREE FUN__, check out this list of [70 No-Cost Ways to Have Fun in Lexington and the Bluegrass](http://www.visitlex.com/idea/freebies.php)!  
 <br>
+<br>
+__[KENTUCKY KICKS ASS!](http://www.kentuckyforkentucky.com/)__
 <br>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/VK2xh43NLKM" frameborder="0">
 </iframe>
