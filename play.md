@@ -14,11 +14,13 @@ title: While you're here, why not PLAY!
 <span><img height="168px" width="168px" title="Can't decide which West Sixth beer to try? Get a flight!" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/552190_10100651802374740_1593408716_n.jpg"></span>
 </center>
 
-While you're here, get to know the Bluegrass a little better!  
-<br>
+<center>
+GET TO KNOW THE BLUEGRASS A LITTLE BETTER!  
 <br>
  <iframe width="560" height="315" src="//www.youtube.com/embed/oxkjCDpXdkY" frameborder="0">
 </iframe>  
+</center>
+<br>
 <br>
 - Visit a distillery: In the area, [Buffalo Trace](http://www.buffalotracedistillery.com/) (in Frankfort) and [Four Roses](http://www.fourrosesbourbon.com/distillery-tour/) (in Lawrenceberg) both give great FREE tours that end with tastings! All ages are welcome, though these might be more fun (and interesting) for those of age (especially since they basically end with free bourbon).
 > __WE ARE PLANNING AN OUTING TO TOUR BUFFALO TRACE ON FRIDAY 10/18!__ We are thinking around 10 or 11am (and the tour
