@@ -49,16 +49,25 @@ __[KENTUCKY KICKS ASS!](http://www.kentuckyforkentucky.com/)__
 - [North Lime Coffee and Donuts](http://www.northlimelex.com/), 575 N Limestone St, (859) 414-6654
 
 ## LUNCH:
-- [Stella’s Kentucky Deli](http://www.stellaskentuckydeli.com/), 143 Jefferson St, (859) 255-3354 (delicious food with emphasis on local. try the jalapeno soda!)
-- [Gumbo Ya Ya](http://www.gumboyayaky.com/), 1080 South Broadway, #107, (859) 252-9292 (very close to Springhill Suites - kickin’ Cajun)
-- [Windy Corner Market](http://www.windycornermarket.com/), 4595 Bryan Station Rd, (859) 294-9338 (food is wonderful, but the drive alone is worth it!)
+- [Stella’s Kentucky Deli](http://www.stellaskentuckydeli.com/), 143 Jefferson St, (859) 255-3354 (Delicious food with emphasis on local. try the jalapeno soda!)
+- [Gumbo Ya Ya](http://www.gumboyayaky.com/), 1080 South Broadway, #107, (859) 252-9292 (Very close to Springhill Suites - kickin’ Cajun)
+- [Windy Corner Market](http://www.windycornermarket.com/), 4595 Bryan Station Rd, (859) 294-9338 (Food is wonderful, but the drive alone is worth it!)
 - [Sav’s West African Grill](http://www.savsgrill.com/), 304 S Limestone St, (859) 368-7287 (YUM! ps, don't be intimidated because it's West African cuisine - it is DELICIOUS and very affordable!)
 
 ## DINNER:
-- [Table 310](http://www.table-three-ten.com/), 310 W Short St, (859) 309-3901 (reservations recommended - order a French 75!)
-- [Curry House](http://www.curryhousenep.com/), 2220 Nicholasville Rd #160, (859) 277-0711 (we think - best Indian restaurant in town!)
-- [Nagasaki Inn](http://www.urbanspoon.com/r/65/700587/restaurant/South-Tates-Creek-Road/Nagasaki-Inn-Lexington), 435 Redding Rd, (859) 272-1858 (sushi and hibachi)
-- [Mellow Mushroom](http://mellowmushroom.com/store/lexington), 503 S Upper St, (859) 281-6111 (killer za!)
+- [County Club](http://countyclubrestaurant.com/), 555 Jefferson St, (859) 389-6555 (Killer barbecue and smoked meats (or so we're told, since we don't eat it) and always a delish, HUGE, and unique salad option for the veggies. This place rules!)      
+- [Table 310](http://www.table-three-ten.com/), 310 W Short St, (859) 309-3901 (Reservations recommended - order a French 75!)
+- [Curry House](http://www.curryhousenep.com/), 2220 Nicholasville Rd #160, (859) 277-0711 (We think - best Indian restaurant in town!)
+- [Nagasaki Inn](http://www.urbanspoon.com/r/65/700587/restaurant/South-Tates-Creek-Road/Nagasaki-Inn-Lexington), 435 Redding Rd, (859) 272-1858 (Sushi and hibachi)
+- [Mellow Mushroom](http://mellowmushroom.com/store/lexington), 503 S Upper St, (859) 281-6111 (Killer za!)  
+
+## DRINK:  
+- [North Lime Coffee and Donuts](http://www.northlimelex.com/), 575 N Limestone St, (859) 414-6654 (COFFEE!)
+- [A Cup of Commonwealth](http://acupofcommonwealth.com/), 105 Eastern Ave, (859) 255-0270 (COFFEE!)
+- [Starbucks](http://www.starbucks.com/store/16603), 808 E High St, (859) 266-8470 (COFFEE! Okay, so it's not necessarily local, but this is a BEAUTIFUL and special store - plus, Eli worked here for three years! It just had its 10-year-remodel, is gorgeous, and now has a Clover machine. If you're into coffee, you know that's a special thing!)
+- [West Sixth Brewery](http://www.westsixth.com/), 501 W 6th St, (859) 951-6006 (LOCAL BEER! Yum!)
+- [The Beer Trappe](http://www.thebeertrappe.com/), 811 E Euclid Ave, (859) 309-0911 (CRAFT BEER!)
+- [Arcadium](http://www.arcadiumbar.com/), 574 N Limestone St, (859) 317-9712 (BEER + BOURBON + VIDEO GAMES)  
 
 ***
 
