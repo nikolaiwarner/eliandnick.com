@@ -17,7 +17,7 @@ title: While you're here, why not PLAY!
 While you're here, get to know the Bluegrass a little better!  
 <br>
 <br>
-<iframe width="420" height="315" src="//www.youtube.com/embed/oxkjCDpXdkY" frameborder="0">
+> <iframe width="560" height="315" src="//www.youtube.com/embed/oxkjCDpXdkY" frameborder="0">
 </iframe>  
 <br>
 - Visit a distillery: In the area, [Buffalo Trace](http://www.buffalotracedistillery.com/) (in Frankfort) and [Four Roses](http://www.fourrosesbourbon.com/distillery-tour/) (in Lawrenceberg) both give great FREE tours that end with tastings! All ages are welcome, though these might be more fun (and interesting) for those of age (especially since they basically end with free bourbon).
