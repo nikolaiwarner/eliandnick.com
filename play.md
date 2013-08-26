@@ -14,8 +14,8 @@ title: While you're here, why not PLAY!
 <span><img height="168px" width="168px" title="Can't decide which West Sixth beer to try? Get a flight!" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/552190_10100651802374740_1593408716_n.jpg"></span>
 </center>
 
-
-## <center>GET TO KNOW THE BLUEGRASS A LITTLE BETTER! </center>  
+<br>
+## GET TO KNOW THE BLUEGRASS A LITTLE BETTER!   
 <br>
  <iframe width="560" height="315" src="//www.youtube.com/embed/oxkjCDpXdkY" frameborder="0">
 </iframe>  
@@ -33,13 +33,11 @@ title: While you're here, why not PLAY!
 - For more __FREE FUN__, check out this list of [70 No-Cost Ways to Have Fun in Lexington and the Bluegrass](http://www.visitlex.com/idea/freebies.php)!  
 <br>
 <br>
-__[KENTUCKY KICKS ASS!](http://www.kentuckyforkentucky.com/)__
+__[KENTUCKY KICKS ASS!](http://www.kentuckyforkentucky.com/)__  
 <br>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/VK2xh43NLKM" frameborder="0">
 </iframe>
 <br>
-
-__[KENTUCKY KICKS ASS!](http://www.kentuckyforkentucky.com/)__
 
 ***
 
