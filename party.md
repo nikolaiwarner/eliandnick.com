@@ -29,9 +29,6 @@ Whatever makes you feel awesome, and lets you dance! If the weather is just horr
 The barn does not have central heating. We will likely have some giant propane space heaters firing, but keeping a sweater or jacket nearby is definitely recommended!  
 <br>
 
-<script type="text/javascript" src="http://voap.weather.com/weather/oap/USKY1079?template=OTDRH&amp;par=3000000007&amp;unit=0&amp;key=twciweatherwidget">
-</script>  
-
 <div id="wx_module_9306">
    <a href="http://www.weather.com/weather/local/40507">Lexington Weather Forecast, KY (40507)</a>
 </div>
