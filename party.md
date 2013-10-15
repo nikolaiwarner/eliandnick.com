@@ -33,12 +33,15 @@ __Bride's ladies:__ Brett Lewis-Deweese, Tricia Riveire, Shanna Sanders, Frances
 __Groom's dudes:__ Chase James, Farhad Rezaei, Jon Riveire, Ben Warner, Todd Willey  
 __Lil' friends:__ Madalynn Riveire & Holden Warner  
 __Best cat:__ Sabie Butters  
+__Greeters:__ Chase Southard & Steev Hayes  
+__Bride's aisle escorts:__ Carl Whitmire & Dennis Fite  
 __Mamas:__ Carol Riveire & Rebekah Warner  
 __Papas:__ Jon Riveire & Jeff Warner  
 __Ceremony Ringleader:__ Mick Jeffries  
 __Reception Master of Ceremonies:__ Hendrick Floyd  
-__Yogini:__ AnneDean Watkins  
+__Yogini:__ AnneDean Dotson    
 __Photographer:__ Hanna Salonen  
+__Videographer:__ Davis Hoffman  
 
 <br>
 ***
