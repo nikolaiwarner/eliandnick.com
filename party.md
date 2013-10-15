@@ -41,7 +41,7 @@ __Ceremony Ringleader:__ Mick Jeffries
 __Reception Master of Ceremonies:__ Hendrick Floyd  
 __Yogini:__ AnneDean Dotson    
 __Photographer:__ Hanna Salonen  
-__Videographer:__ Davis Hoffman  
+__Videographers:__ Davis Hoffman & Farhad Rezaei    
 
 <br>
 ***
