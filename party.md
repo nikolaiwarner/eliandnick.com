@@ -29,7 +29,7 @@ Whatever makes you feel awesome, and lets you dance! If the weather is just horr
 The barn does not have central heating. We will likely have some giant propane space heaters firing, but keeping a sweater or jacket nearby is definitely recommended!  
 <br>
 
-<script type="text/javascript" src="http://voap.weather.com/weather/oap/USKY1079?template=OTDRH&par=3000000007&unit=0&key=twciweatherwidget">
+<script type="text/javascript" src="http://voap.weather.com/weather/oap/USKY1079?template=OTDRH&amp;par=3000000007&amp;unit=0&amp;key=twciweatherwidget">
 </script>
 
 
