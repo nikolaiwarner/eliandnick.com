@@ -28,7 +28,8 @@ Whatever makes you feel awesome, and lets you dance! If the weather is just horr
 * __[PLEASE CHECK THE WEATHER!](http://www.weather.com/weather/weekend/Lexington+KY+40504:4:US)__  
 The barn does not have central heating. We will likely have some giant propane space heaters firing, but keeping a sweater or jacket nearby is definitely recommended!  
 <br>
-<script type="text/javascript" src="http://voap.weather.com/weather/oap/40504?template=GENXH&par=3000000007&unit=0&key=twciweatherwidget">
+<script 
+type="text/javascript" src="http://voap.weather.com/weather/oap/40504?template=GENXH&par=3000000007&unit=0&key=twciweatherwidget">
 </script>  
 
 
