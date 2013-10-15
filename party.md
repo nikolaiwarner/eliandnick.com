@@ -28,8 +28,9 @@ Whatever makes you feel awesome, and lets you dance! If the weather is just horr
 * __[PLEASE CHECK THE WEATHER!](http://www.weather.com/weather/weekend/Lexington+KY+40504:4:US)__  
 The barn does not have central heating. We will likely have some giant propane space heaters firing, but keeping a sweater or jacket nearby is definitely recommended!  
 <br>
-<script type="text/javascript" src="http://voap.weather.com/weather/oap/40504?template=GENXH&par=3000000007&unit=0&key=twciweatherwidget">
-</script>  
+
+<div style='width: 435px; height: 90px; background-image: url( http://vortex.accuweather.com/adcbin/netweather_v2/backgrounds/clouds_435x90_bg.jpg ); background-repeat: no-repeat; background-color: #;' ><div id='NetweatherContainer' style='height: 75px;' ><script src='http://netweather.accuweather.com/adcbin/netweather_v2/netweatherV2ex.asp?partner=netweather&tStyle=normal&logo=1&zipcode=40504&lang=eng&size=10&theme=clouds&metric=0&target=_self'></script></div><div style='text-align: center; font-family: arial, helvetica, verdana, sans-serif; font-size: 10px; line-height: 15px; color: #;' ><div style='float: left; padding-left: 5px;' ><a style='font-family: arial, helvetica, verdana, sans-serif; font-size: 10px; color: #FFFFFF' href='http://www.accuweather.com/index-forecast.asp?partner=accuweather&zipcode=16601' >Weather Forecast</a> | <a style='font-family: arial, helvetica, verdana, sans-serif; font-size: 10px; color: #FFFFFF' href='http://www.accuweather.com/maps-satellite.asp' >Weather Maps</a> | <a style='font-family: arial, helvetica, verdana, sans-serif; font-size: 10px; color: #FFFFFF' href='http://www.accuweather.com/index-radar.asp?partner=accuweather&zipcode=16601' >Weather Radar</a></div><div style='float: right;' ><img style='padding-right: 5px;' src='http://vortex.accuweather.com/adc2004/common/images/misc/netweather_v2/adcwhite.png' /></div><div style='clear: both;' />
+</div></div></div>
 
 
 ***
