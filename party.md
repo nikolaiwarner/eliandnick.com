@@ -23,7 +23,10 @@ Both the ceremony and reception will take place at the [historic Round Barn](htt
 * __THE BAR__ will feature some of our local delicacies - [Ale 8](http://en.wikipedia.org/wiki/Ale-8-One), Kentucky’s favorite soda; [craft beer from one of Lexington's microbreweries, West Sixth Brewery](http://www.craftbeer.com/featured-brewery/west-sixth-brewing-company); and several varieties of [Kentucky’s gift to the rest of the world - bourbon!](http://en.wikipedia.org/wiki/Bourbon_whiskey)
 
 * __WHAT SHOULD I WEAR?__
-Whatever makes you feel awesome, and lets you dance! If the weather is just horrible, we’ll move the whole shebang inside the barn, but otherwise, note that Kentucky weather is unpredictable and plan accordingly (ie - you might want to stash a sweater and/or an umbrella in the car, just in case). We’ll hope for blue skies with vibrant foliage and just a slight chill - but anything is possible! Also, ladies, if you’re cool with your sky-high stilettos digging into the grass as you walk across a field, then girl, rock those hot shoes! But also remember that the bride is a librarian and very much supports the idea of wearing comfortable footwear.
+Whatever makes you feel awesome, and lets you dance! If the weather is just horrible, we’ll move the whole shebang inside the barn, but otherwise, note that Kentucky weather is unpredictable and plan accordingly (ie - you might want to stash a sweater and/or an umbrella in the car, just in case). We’ll hope for blue skies with vibrant foliage and just a slight chill - but anything is possible! Also, ladies, if you’re cool with your sky-high stilettos digging into the grass as you walk across a field, then girl, rock those hot shoes! But also remember that the bride is a librarian and very much supports the idea of wearing comfortable footwear.  
+
+* __[PLEASE CHECK THE WEATHER!](http://www.weather.com/weather/weekend/Lexington+KY+40504:4:US)__  
+The barn does not have central heating. We will likely have some giant propane space heaters firing, but keeping a sweater or jacket nearby is definitely recommended!  
 
 
 ***
