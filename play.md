@@ -15,10 +15,10 @@ title: While you're here, why not PLAY!
 </center>
 
 <br>
-## GET TO KNOW THE BLUEGRASS A LITTLE BETTER!   
+## GET TO KNOW THE BLUEGRASS A LITTLE BETTER!
 <br>
- <iframe width="560" height="315" src="//www.youtube.com/embed/oxkjCDpXdkY" frameborder="0">
-</iframe>  
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/oxkjCDpXdkY" frameborder="0"></iframe>  
 
 <br>
 <br>
@@ -35,8 +35,9 @@ title: While you're here, why not PLAY!
 <br>
 __[KENTUCKY KICKS ASS!](http://www.kentuckyforkentucky.com/)__  
 <br>
-<iframe width="560" height="315" src="http://www.youtube.com/embed/VK2xh43NLKM" frameborder="0">
-</iframe>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/VK2xh43NLKM" frameborder="0"></iframe>
+
 <br>
 
 ***
@@ -55,7 +56,7 @@ __[KENTUCKY KICKS ASS!](http://www.kentuckyforkentucky.com/)__
 - [Sav’s West African Grill](http://www.savsgrill.com/), 304 S Limestone St, (859) 368-7287 (YUM! ps, don't be intimidated because it's West African cuisine - it is DELICIOUS and very affordable!)
 
 ## DINNER:
-- [County Club](http://countyclubrestaurant.com/), 555 Jefferson St, (859) 389-6555 (Killer barbecue and smoked meats (or so we're told, since we don't eat it) and always a delish, HUGE, and unique salad option for the veggies. This place rules!)      
+- [County Club](http://countyclubrestaurant.com/), 555 Jefferson St, (859) 389-6555 (Killer barbecue and smoked meats (or so we're told, since we don't eat it) and always a delish, HUGE, and unique salad option for the veggies. This place rules!)
 - [Table 310](http://www.table-three-ten.com/), 310 W Short St, (859) 309-3901 (Reservations recommended - order a French 75!)
 - [Curry House](http://www.curryhousenep.com/), 2220 Nicholasville Rd #160, (859) 277-0711 (We think - best Indian restaurant in town!)
 - [Nagasaki Inn](http://www.urbanspoon.com/r/65/700587/restaurant/South-Tates-Creek-Road/Nagasaki-Inn-Lexington), 435 Redding Rd, (859) 272-1858 (Sushi and hibachi)
@@ -76,8 +77,8 @@ After the wedding, we'll be playing in California! We're dividing our honeymoon 
 
 
 <br>
-<iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true">
-</iframe>
-<br>
-<br>
 
+<iframe src="https://embed.spotify.com/?uri=spotify:user:eliriveire:playlist:3dsWfGQ52I0sMD0rj7Yg1X" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
+
+<br>
+<br>
